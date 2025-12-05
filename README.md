@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven Destin Franklin! <a href="https://www.linkedin.com/in/steven-franklin-a82b51276/">Cybersecurity Professional</a>
+<h1>Hi, I'm Steven "Destin" Franklin! <a href="https://www.linkedin.com/in/steven-franklin-a82b51276/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
