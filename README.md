@@ -9,7 +9,7 @@
 
 <h2> 💻 Certifications</h2>
 
-- [Comptia Security +]
+- [Comptia Security +], (https://github.com/user-attachments/files/23972420/CompTIA.Security%2B.ce.certificate.pdf)
 - [Google Cybersecurity, (https://coursera.org/share/c4da58b08a83086c4f630c188f66d39b)]
 
 <h2> 🤳 Connect with me:</h2>
