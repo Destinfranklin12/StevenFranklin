@@ -10,11 +10,11 @@
 <h2> 💻 Certifications</h2>
 
 - [Comptia Security +], (https://github.com/user-attachments/files/23972420/CompTIA.Security%2B.ce.certificate.pdf)
-- [Google Cybersecurity, (https://coursera.org/share/c4da58b08a83086c4f630c188f66d39b)]
+- [Google Cybersecurity], (https://coursera.org/share/c4da58b08a83086c4f630c188f66d39b)
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/steven-franklin-a82b51276
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
