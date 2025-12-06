@@ -4,7 +4,7 @@
 
   - [Creating A Secure Network Lab](https://github.com/Destinfranklin12/CreatingSecureNetworkLab)
   - [Vulnerability Management Lab](https://github.com/Destinfranklin12/VulnerabilityManagementLab/tree/main)
-  - [Capture The Flag Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Capture The Flag Lab](https://github.com/Destinfranklin12/CaptureTheFlagLab/tree/main)
 
 
 <h2> 💻 Certifications</h2>
