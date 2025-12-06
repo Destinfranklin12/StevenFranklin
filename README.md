@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Creating A Secure Network Lab](https://github.com/Destinfranklin12/CreatingSecureNetworkLab)
-  - [Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management Lab](https://github.com/Destinfranklin12/VulnerabilityManagementLab/tree/main)
   - [Capture The Flag Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
